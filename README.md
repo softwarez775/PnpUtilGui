@@ -42,6 +42,11 @@ Interface gráfica (GUI) moderna para o [pnputil](https://learn.microsoft.com/pt
 
 > O programa exige execução como administrador para gerenciar drivers.
 
+## Download
+ Pronto para usar é só clicar e baixar:
+ 
+Download: ----> [Aqui](https://github.com/softwarez775/PnpUtilGui/releases/download/v1.0.0/PnpUtilGui-v1.0.0.zip)
+
 ## Licença
 
 [MIT](LICENSE)
